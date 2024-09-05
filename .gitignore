@@ -1,0 +1,33 @@
+# Node.js
+echo ##active_line16##
+node_modules/
+echo ##active_line17##
+
+echo ##active_line18##
+# macOS
+echo ##active_line19##
+.DS_Store
+echo ##active_line20##
+
+echo ##active_line21##
+# Editor files
+echo ##active_line22##
+.vscode/
+echo ##active_line23##
+*.swp
+echo ##active_line24##
+*.swo
+echo ##active_line25##
+
+echo ##active_line26##
+# Logs
+echo ##active_line27##
+*.log
+echo ##active_line28##
+
+echo ##active_line29##
+# Build output
+echo ##active_line30##
+dist/
+echo ##active_line31##
+build/
